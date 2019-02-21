@@ -1,4 +1,4 @@
-FROM mysql:8
+FROM mysql
 
 LABEL maintainer="Mahmoud Zalt <mahmoud@zalt.me>"
 
